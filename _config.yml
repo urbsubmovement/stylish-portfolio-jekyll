@@ -8,15 +8,15 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner: Anthony Taylor
-email: urbansuburbanventures@gmail.com
+owner: Anthony "A. T." Taylor
+email: at@urbansuburbanmovement.org
 facebook_username:
 twitter_username:
 github_username:
 address:
   - line:
   - line:
-  # Feel free to add more lines here 
+  # Feel free to add more lines here
 telephone:
 copyright:
 
